@@ -1,0 +1,4 @@
+aiohttp>=3.6.2
+netifaces
+
+trpc-python ; sys_platform != 'win32'
