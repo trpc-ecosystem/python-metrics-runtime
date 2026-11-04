@@ -10,4 +10,4 @@ version sent in the daily report payload.
 """
 
 # Semantic version of this reporter package.
-__version__ = '0.1.0'
+__version__ = '1.0.0'
